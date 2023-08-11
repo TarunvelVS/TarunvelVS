@@ -13,6 +13,13 @@
 <li><h4 align ="left"> <a href="https://github.com/TarunvelVS/Machine_Learning_Projects/blob/main/Insurance_Data_Analysis_01.ipynb)">Exploratory Data Analysis (Insurance Data Set)</a> </h4></li>
 <li><h4 align ="left"> <a href="https://public.tableau.com/app/profile/tarunvelvs"> Data Visualization Dashboards Tableau</a> </h4></li>
 </ul>
+<h3 align="left">Product Designs & Research:</h3> <ul>
+<li><h4 align ="left"> <a href="https://github.com/TarunvelVS/Academic_Projects_Research_Mechanical/blob/main/Automated%20Scavenging%20System.pdf">Automated Scavenging System</a> </h4></li>
+<li><h4 align ="left"> <a href="https://github.com/TarunvelVS/Academic_Projects_Research_Mechanical/blob/main/Vertical%20Axis%20Wind%20Turbine.pdf">Vertical Axis Wind Turbine</a> </h4></li>
+<li><h4 align ="left"> <a href="https://github.com/TarunvelVS/Academic_Projects_Research_Mechanical/blob/main/Data%20Collection%20and%20Analysis%20at%20Rig%20Site.pdf">Mechanical Data Analysis 
+ System at Rig Site</a> </h4></li>
+<li><h4 align ="left"> <a href="https://github.com/TarunvelVS/Academic_Projects_Research_Mechanical/blob/main/Tin%20Can%20Crusher_Summary.pdf">Tin Can Crusher</a> </h4></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
