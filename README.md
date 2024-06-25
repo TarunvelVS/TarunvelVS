@@ -1,3 +1,8 @@
+Hi, this is my comprehensive list of all my projects that are present in the GitHub repository and other Business analysis project are found in the Tableau Public Profile and in Medium blogs as below.
+
+* Tableau: https://public.tableau.com/app/profile/tarunvelvs/vizzes
+* Medium: https://medium.com/@TarunvelVS
+
 ### Machine Learning Projects
 
 1. Crop recommendation system based on soil parameters - [Link](https://github.com/TarunvelVS/Machine_Learning_Projects/blob/main/Crop%20Predictor.ipynb)
