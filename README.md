@@ -24,3 +24,6 @@
 
 1. Text to SQL using Gemini Pro API - [Link](https://github.com/TarunvelVS/GenAI_DL_NLP_Projects/tree/main/Text_To_SQL)
 2. Chat with document - RAG Application - [Link](https://github.com/TarunvelVS/RAG_LLM_Models/tree/main/Version%201)
+
+### Data Engineering Projects
+1. Real-Time Data Pipeline with Apache Kafka and Apache Spark - [Link](https://github.com/TarunvelVS/ETL_Data_Engineering/tree/main/Real-Time%20Data%20Pipeline%20with%20Apache%20Kafka%20and%20Apache%20Spark)
