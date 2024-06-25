@@ -1,5 +1,5 @@
 ## Machine Learning Projects
-1. Crop recommendation system based on soil parameters - [https://github.com/TarunvelVS/Machine_Learning_Projects/blob/main/Crop%20Predictor.ipynb](Link)
+1. Crop recommendation system based on soil parameters - [Link]([Link](https://github.com/TarunvelVS/Machine_Learning_Projects/blob/main/Crop%20Predictor.ipynb))
 2. House Price Prediction using Linear and RandomForest Regression - [https://github.com/TarunvelVS/Machine_Learning_Projects/blob/main/house-price-prediction-linear-regression.ipynb](url)
 3. Diabetes Classification Model - [https://github.com/TarunvelVS/Diabetes_Prediction/blob/main/Diabetes_Prediction.ipynb](url)
 4. Kidney & Heart Disease Prediction - [https://github.com/TarunvelVS/Diabetes_Prediction/blob/main/Health_Infomatics.ipynb](url)
