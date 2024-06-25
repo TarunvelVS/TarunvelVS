@@ -12,7 +12,7 @@ Hi, this is my comprehensive list of all my projects that are present in the Git
 
 ### Natural Language Processing Projects
 
-1. Twitter Sentiment Analysis - [Link](https://github.com/TarunvelVS/Machine_Learning_Projects/blob/main/Twitter_Sentiment_Analysis_Using_NLP.ipynb)
+1. Twitter Sentiment Analysis - NLTK - [Link](https://github.com/TarunvelVS/Machine_Learning_Projects/blob/main/Twitter_Sentiment_Analysis_Using_NLP.ipynb)
 
 ### Deep Learning Projects
 
